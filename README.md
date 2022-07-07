@@ -8,3 +8,4 @@ Bu kodu çalıştırmak için aşağıdaki malzemeleri edinip bağlantısını y
 •	Pil Alkalin piller robotu yaklaşık 15 dk. verimli şekilde çalıştıracaktır.  
 •	6’lı AA Pil Yuvası
 •	Jumper
+![Robot Fotoğrafı](http://raw.githubusercontent.com/OzcanFatihCan/Engelden-kacan-robot/main/robot.jpg)
